@@ -39,8 +39,10 @@ Ejecuta el programa:
 bash
 java ArbolAVL
 
-Ingresa los números uno a uno. Para finalizar escribe -1
+Ingresa los números uno a uno. Para finalizar escribe -1.
+
 🔢 Entradas de Ejemplo (50, 30, 70, 20, 40, 60, 80, 35)
+
 Salida Esperada (Árbol AVL Final)
 └── 50
     ├── 30
@@ -50,7 +52,19 @@ Salida Esperada (Árbol AVL Final)
     └── 70
         ├── 60
         └── 80
+
 🎨 La raíz aparece en amarillo, los nodos hijos en verde.
+
+📈 Cadenas de Inserción Sugeridas
+(30, 20, 10)
+
+(10, 20, 30)
+
+(30, 10, 20)
+
+(10, 30, 20)
+
+Se recomienda analizar las rotaciones que ocurren en cada caso.
 
 
 
