@@ -18,6 +18,13 @@ El propósito de este proyecto es implementar un Árbol AVL en Java que permita:
 
 Esto resuelve el problema común de los árboles binarios desbalanceados, que afectan el rendimiento de operaciones como búsqueda, inserción o eliminación.
 
+📹 Video Explicativo
+Explicación detallada del funcionamiento, código, inserciones y visualización:
+
+🔗 Ver video en YouTube :
+
+
+
 ---
 
 ## 💻 Instrucciones para Ejecutar 
