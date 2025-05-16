@@ -21,7 +21,7 @@ Esto resuelve el problema común de los árboles binarios desbalanceados, que af
 📹 Video Explicativo
 Explicación detallada del funcionamiento, código, inserciones y visualización:
 
-🔗 Ver video en YouTube :
+🔗 Ver video en YouTube : https://youtu.be/MWXmIHzjAY4
 
 
 
@@ -56,6 +56,7 @@ Salida Esperada (Árbol AVL Final)
 🎨 La raíz aparece en amarillo, los nodos hijos en verde.
 
 📈 Cadenas de Inserción Sugeridas
+
 (30, 20, 10)
 
 (10, 20, 30)
