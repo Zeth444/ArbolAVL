@@ -21,7 +21,7 @@ Esto resuelve el problema común de los árboles binarios desbalanceados, que af
 📹 Video Explicativo
 Explicación detallada del funcionamiento, código, inserciones y visualización:
 
-🔗 Ver video en YouTube : https://youtu.be/MWXmIHzjAY4
+🔗 Ver video en YouTube : https://youtu.be/tnBH8jvOJQ4
 
 
 
